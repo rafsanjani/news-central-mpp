@@ -9,7 +9,7 @@ This project makes use of the Newscentral API to list some news headlings from G
 
 **Android (Jetpack Compose)**
 <br/>
-<img width="546" alt="Screenshot 2021-02-27 at 12 09 02" src="https://user-images.githubusercontent.com/9197459/166307468-f63bc5cc-dfc0-4ba5-9783-44f1e55831c7.png">
+<img width="546" alt="Screenshot 2021-02-27 at 12 09 02" src="https://user-images.githubusercontent.com/9197459/166308589-c6966e03-c9ca-45b7-8b73-47b422fd8af6.png">
 
 **iOS (SwiftUI)**
 <br/>
